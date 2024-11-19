@@ -9,6 +9,7 @@
     background-color: var(--blanc-casse);
     color: var(--noir);
     font-family: Arial, sans-serif;
+    height: 100vh;
     margin: 0;
     padding: 0;
   }
