@@ -9,16 +9,17 @@
     background-color: var(--blanc-casse);
     color: var(--noir);
     font-family: Arial, sans-serif;
-    height: 100vh;
     margin: 0;
     padding: 0;
+    text-align: 100px;
   }
   
   /* Container principal pour centrer le contenu */
   .container {
-    max-width: 800px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 20px;
+    margin-bottom: 0%;
   }
   
   /* Navigation */
