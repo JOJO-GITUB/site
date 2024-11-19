@@ -160,7 +160,7 @@
     }
   }
 
-  @media screen and (min-width: 500px) {
+  @media screen and (min-width: 800px) {
     .content-wrapper {
       display: block;
       grid-area: nv1;
@@ -177,7 +177,7 @@
     }
   }
   
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 800px) {
     .content-wrapper {
       display: block;
       grid-area: nv1;
